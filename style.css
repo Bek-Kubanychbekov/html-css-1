@@ -1,0 +1,10 @@
+body{
+    background-color: white;
+}
+.button{
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: hsl(hue, saturation, lightness);
+    border: 3px hsl(hue, saturation, lightness);
+}
